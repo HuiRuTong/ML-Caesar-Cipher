@@ -57,7 +57,7 @@ of an issue. Realistically, who's encrypting "Hello there."?
 -  encrypt.py encrypts any piece of .txt you give it. To encrypt a .txt file,
     place it inside the "Texts" folder and run the program in powershell using
     ```bash
-    encrypt.py <name of file>
+    encrypt.py <name of file without .txt>
     ```
     without the <>.
 
