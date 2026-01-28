@@ -1,0 +1,53 @@
+Higgs boson, particle that is the carrier particle, or boson, of the Higgs field, a field that permeates space and endows all elementary subatomic particles with mass through its interactions with them.
+The field and the particle—named after Peter Higgs of the University of Edinburgh, one of the physicists who in first proposed the mechanism—provided a testable hypothesis for the origin of mass in elementary particles.
+In popular culture the Higgs boson is often called the “God particle,” after the title of Nobel physicist Leon Lederman’s The God Particle: If the Universe Is the Answer, What Is the Question?, which contained the author’s assertion that the discovery of the particle is crucial to a final understanding of the structure of matter.
+The Higgs field is different from other fundamental fields—such as the electromagnetic field—that underlie the basic forces between particles.
+First, it is a scalar field; i.e., it has magnitude but no direction.
+This implies that its carrier, the Higgs boson, has an intrinsic angular momentum, or spin, of zero, unlike the carriers of the force fields, which have spin.
+Second, the Higgs field has the unusual property that its energy is higher when the field is zero than when it is nonzero.
+The elementary particles therefore acquired their masses through interactions with a nonzero Higgs field only when the universe cooled and became less energetic in the aftermath of the big bang.
+The variety of masses characterizing the elementary subatomic particles arises because different particles have different strengths of interaction with the Higgs field.
+The Higgs mechanism has a key role in the electroweak theory, which unifies interactions via the weak force and the electromagnetic force.
+It explains why the carriers of the weak force, the W particles and the Z particles, are heavy while the carrier of the electromagnetic force, the photon, has a mass of zero.
+Experimental evidence for the Higgs boson is a direct indication for the existence of the Higgs field.
+It is also possible that there is more than one type of Higgs boson.
+Experiments searched for the massive Higgs boson at the highest-energy particle-accelerator colliders, in particular the Tevatron at the Fermi National Accelerator Laboratory and the Large Hadron Collider at the European Organization for Nuclear Research.
+Scientists at the Large Hadron Collider announced that they had detected an interesting signal that was likely from a Higgs boson with a mass of about one hundred gigaelectron volts.
+Further data was needed to definitively confirm those observations, and such confirmation was announced in March.
+That same year Higgs and Belgian physicist François Englert shared the Nobel Prize in Physics.
+Standard model, the combination of two theories of particle physics into a single framework to describe all interactions of subatomic particles, except those due to gravity.
+The two components of the standard model are electroweak theory, which describes interactions via the electromagnetic and weak forces, and quantum chromodynamics, the theory of the strong nuclear force.
+Both these theories are gauge field theories, which describe the interactions between particles in terms of the exchange of intermediary “messenger” particles that have one unit of intrinsic angular momentum, or spin.
+In addition to these force-carrying particles, the standard model encompasses two families of subatomic particles that build up matter and that have spins of one-half unit.
+These particles are the quarks and the leptons, and there are six varieties, or “flavours,” of each, related in pairs in three “generations” of increasing mass.
+Everyday matter is built from the members of the lightest generation: the “up” and “down” quarks that make up the protons and neutrons of atomic nuclei; the electron that orbits within atoms and participates in binding atoms together to make molecules and more complex structures; and the electron-neutrino that plays a role in radioactivity and so influences the stability of matter.
+Heavier types of quark and lepton have been discovered in studies of high-energy particle interactions, both at scientific laboratories with particle accelerators and in the natural reactions of high-energy cosmic-ray particles in the atmosphere.
+The standard model has proved a highly successful framework for predicting the interactions of quarks and leptons with great accuracy.
+Yet it has a number of weaknesses that lead physicists to search for a more complete theory of subatomic particles and their interactions.
+The present standard model, for example, cannot explain why there are three generations of quarks and leptons.
+It makes no predictions of the masses of the quarks and the leptons nor of the strengths of the various interactions.
+Physicists hope that, by probing the standard model in detail and making highly accurate measurements, they will discover some way in which the model begins to break down and thereby find a more complete theory.
+This may prove to be what is known as a grand unified theory, which uses a single theoretical structure to describe the strong, weak, and electromagnetic forces.
+Quantum field theory, body of physical principles combining the elements of quantum mechanics with those of relativity to explain the behaviour of subatomic particles and their interactions via a variety of force fields.
+Two examples of modern quantum field theories are quantum electrodynamics, describing the interaction of electrically charged particles and the electromagnetic force, and quantum chromodynamics, representing the interactions of quarks and the strong force.
+Designed to account for particle-physics phenomena such as high-energy collisions in which subatomic particles may be created or destroyed, quantum field theories have also found applications in other branches of physics.
+The prototype of quantum field theories is quantum electrodynamics, which provides a comprehensive mathematical framework for predicting and understanding the effects of electromagnetism on electrically charged matter at all energy levels.
+Electric and magnetic forces are regarded as arising from the emission and absorption of exchange particles called photons.
+These can be represented as disturbances of electromagnetic fields, much as ripples on a lake are disturbances of the water.
+Under suitable conditions, photons may become entirely free of charged particles; they are then detectable as light and as other forms of electromagnetic radiation.
+Similarly, particles such as electrons are themselves regarded as disturbances of their own quantized fields.
+Numerical predictions based on quantum electrodynamics agree with experimental data to within one part in ten million in some cases.
+There is a widespread conviction among physicists that other forces in nature—the weak force responsible for radioactive beta decay; the strong force, which binds together the constituents of atomic nuclei; and perhaps also the gravitational force—can be described by theories similar to quantum electrodynamics.
+These theories are known collectively as gauge theories.
+Each of the forces is mediated by its own set of exchange particles, and differences between the forces are reflected in the properties of these particles.
+For example, electromagnetic and gravitational forces operate over long distances, and their exchange particles—the well-studied photon and the as-yet-undetected graviton, respectively—have no mass.
+In contrast, the strong and weak forces operate only over distances shorter than the size of an atomic nucleus.
+Quantum chromodynamics, the modern quantum field theory describing the effects of the strong force among quarks, predicts the existence of exchange particles called gluons, which are also massless as with quantum electrodynamics but whose interactions occur in a way that essentially confines quarks to bound particles such as the proton and the neutron.
+The weak force is carried by massive exchange particles—the W and Z particles—and is thus limited to an extremely short range, approximately one percent of the diameter of a typical atomic nucleus.
+The current theoretical understanding of the fundamental interactions of matter is based on quantum field theories of these forces.
+Research continues, however, to develop a single unified field theory that encompasses all the forces.
+In such a unified theory, all the forces would have a common origin and would be related by mathematical symmetries.
+The simplest result would be that all the forces would have identical properties and that a mechanism called spontaneous symmetry breaking would account for the observed differences.
+A unified theory of electromagnetic and weak forces, the electroweak theory, has been developed and has received considerable experimental support.
+It is likely that this theory can be extended to include the strong force.
+There also exist theories that include the gravitational force, but these are more speculative.

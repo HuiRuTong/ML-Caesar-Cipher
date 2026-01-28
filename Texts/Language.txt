@@ -1,0 +1,59 @@
+Under normal circumstances, a child is introduced to language virtually at the moment of birth.
+Adults talk to him and to each other in his presence.
+Children do not require explicit language instruction, but they do need exposure to language in order to develop normally.
+Children who do not receive linguistic input during their formative years do not achieve nativelike grammatical competence.
+Moreover, behavioral tests and brain imaging studies show that late exposure to language alters the fundamental organization of the brain for language.
+The critical-age hypothesis assumes that language is biologically based and that the ability to learn a native language develops within a fixed period, from birth to middle childhood.
+During this critical period, language acquisition proceeds easily, swiftly, and without external intervention.
+After this period, the acquisition of grammar is difficult and, for most individuals, never fully achieved.
+Children deprived of language during this critical period show atypical patterns of brain lateralization.
+The notion of a critical period is true of many species and seems to pertain to species-specific, biologically triggered behaviors.
+Ducklings, for example, during the period from nine to twenty-one hours after hatching, will follow the first moving object they see, whether or not it looks or waddles like a duck.
+Such behavior is not the result of conscious decision, external teaching, or intensive practice.
+It unfolds according to what appears to be a maturationally determined schedule that is universal across the species.
+Similarly, as discussed in a later section, certain species of birds develop their bird song during a biologically determined window of time.
+Instances of children reared in environments of extreme social isolation constitute “experiments in nature” for testing the critical-age hypothesis.
+The most dramatic cases are those described as “wild” or “feral” children.
+A celebrated case, documented in François Truffaut’s film The Wild Child, is that of Victor, “the wild boy of Aveyron,” who was found..
+It was ascertained that he had been left in the woods when very young and had somehow survived.
+Two children, Amala and Kamala, were found in India, supposedly having been reared by wolves.
+Other children have been isolated because of deliberate efforts to keep them from normal social intercourse.A child called Genie in the scientific reports was discovered.
+She had been confined to a small room under conditions of physical restraint and had received only minimal human contact from the age of eighteen months until nearly fourteen years.
+None of these children, regardless of the cause of isolation, was able to speak or knew any language at the time they were reintroduced into society.
+This linguistic inability could simply be caused by the fact that these children received no linguistic input, showing that language acquisition, though an innate, neurologically based ability, must be triggered by input from the environment.
+In the documented cases of Victor and Genie, however, these children were unable to acquire grammar even after years of exposure, and despite the ability to learn many words.
+Genie was able to learn a large vocabulary, including colors, shapes, objects, natural categories, and abstract as well as concrete terms, but her grammatical skills never fully developed.
+The linguist Susan Curtiss, who worked with Genie for several years, reported that Genie’s utterances were, for the most part, “the stringing together of content words, often with rich and clear meaning, but with little grammatical structure.” Genie’s utterances lacked articles, auxiliary verbs like will or can, the third-person singular agreement marker -s, the past-tense marker -ed, question words like who, what, and where, and pronouns.
+She had no ability to form more complex types of sentences such as questions.
+Genie started learning language after the critical period and was therefore never able to fully acquire the grammatical rules of English.
+Tests of lateralization showed that Genie’s language was lateralized to the right hemisphere.
+Her test performance was similar to that found in split-brain and left hemispherectomy patients, yet Genie was not brain damaged.
+Curtiss speculates that after the critical period, the usual language areas functionally atrophy because of inadequate linguistic stimulation.
+Genie’s case also demonstrates that language is not the same as communication, because Genie was a powerful nonverbal communicator, despite her limited ability to acquire language.
+Chelsea, another case of linguistic isolation, is a woman whose situation also supports the critical-age hypothesis.
+She was born deaf but was wrongly diagnosed as retarded.
+When she was thirty-one, her deafness was finally diagnosed, and she was fitted with hearing aids.
+For years she has received extensive language training and therapy and has acquired a large vocabulary.
+However, like Genie, Chelsea has not been able to develop a grammar.
+ERP studies of the localization of language in Chelsea’s brain have revealed an equal response to language in both hemispheres.
+In other words, Chelsea also does not show the normal asymmetric organization for language.
+More than ninety percent of acquired language are born to hearing parents.
+These children have also provided information about the critical age for language acquisition.
+Because most of their parents do not know sign language at the time these children are born, most receive delayed language exposure.
+Several studies have investigated the acquisition of American Sign Language among deaf signers exposed to the language at different ages.
+Early learners who received American sign language input from birth and up to six years of age did much better in the production and comprehension of complex signs and sign sentences than late learners who were not exposed to ASL until after the age of twelve, even though all of the subjects in these studies had used sign for more than twenty years.
+There was little difference, however, in vocabulary or knowledge of word order.
+Another study compared patterns of lateralization in the brains of adult native speakers of English, adult native signers, and deaf adults who had not been exposed to sign language.
+The nonsigning deaf adults did not show the same cerebral asymmetries as either the hearing adults or the deaf signers.
+In recent years there have been numerous studies of late learners of sign language, all with similar results.
+The cases of Genie and other isolated children, as well as deaf late learners of ASL, show that children cannot fully acquire language unless they are exposed to it within the critical period—a biologically determined window of opportunity during which time the brain is prepared to develop language.
+Moreover, the critical period is linked to brain lateralization.
+The human brain is primed to develop language in specific areas of the left hemisphere, but the normal process of brain specialization depends on early and systematic experience with language.
+Language acquisition plays a critical role in, and may even be the trigger for, the realization of normal cerebral lateralization for higher cognitive functions in general, not just for language.
+Beyond the critical period, the human brain seems unable to acquire the grammatical aspects of language, even with substantial linguistic training or many years of exposure.
+However, it is possible to acquire words and various conversational skills after this point.
+This evidence suggests that the critical period holds for the acquisition of grammatical abilities, but not necessarily for all aspects of language.
+The selective acquisition of certain components of language that occurs beyond the critical period is reminiscent of the selective impairment that occurs in various language disorders, where specific linguistic abilities are disrupted.
+This selectivity in both acquisition and impairment points to a strongly modularized language faculty.
+Language is separate from other cognitive systems and autonomous, and is itself a complex system with various components.
+In the chapters that follow, we will explore these different language components.
